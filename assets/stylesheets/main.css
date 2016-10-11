@@ -48,14 +48,28 @@ table {
 }
 
 /*
+ ========================================
+  Custom Covers Grid
+  ========================================
+*/
+ul {
+	white-space: nowrap;
+}
+ul, li {
+	list-style: none;
+	display: inline;
+}
+
+/*
+
   ========================================
   Custom styles
   ========================================
 */
 
 body {
-  background: #293f50;
-  color: #888;
+  background: #cdcdb1;
+  color: #b30000;
   font: 300 16px/22px "Lato", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
@@ -251,7 +265,7 @@ p a {
 */
 
 .logo {
-  border-top: 4px solid #648880;
+  border-top: 4px solid #5d5d3c;
   float: left;
   font-size: 48px;
   font-weight: 100;
@@ -265,6 +279,7 @@ p a {
   text-align: right;
 }
 .primary-nav {
+  float: center:
   font-size: 14px;
   font-weight: 400;
   letter-spacing: .5px;
@@ -278,7 +293,7 @@ p a {
 */
 
 .primary-footer {
-  color: #648880;
+  color: #5d5d3c;
   font-size: 14px;
   padding-bottom: 44px;
   padding-top: 44px;
@@ -305,7 +320,7 @@ p a {
 */
 
 .hero {
-  color: #fff;
+  color: #353332;
   line-height: 44px;
   padding: 22px 80px 66px 80px;
   text-align: center;
