@@ -68,9 +68,16 @@ ul, li {
 */
 
 body {
-  background: #cdcdb1;
-  color: #b30000;
+  background-color: #b30000;
+  background-image: url(slowbear.jpg);
+  background-repeat: no-repeat;
+  background-position: top center;
   font: 300 16px/22px "Lato", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+#container {
+  width: 940px;
+  margin: 0 auto;
 }
 
 /*
@@ -279,7 +286,7 @@ p a {
   text-align: right;
 }
 .primary-nav {
-  float: center:
+  float: left:
   font-size: 14px;
   font-weight: 400;
   letter-spacing: .5px;
