@@ -67,7 +67,6 @@ ul, li {
 */
 
 body {
-  background-image: url(images/"slowbear.jpg");
   background-color: #000;
   background-repeat: no-repeat;
   background-position: center top;
@@ -216,11 +215,11 @@ p a {
 }
 .primary-header a,
 .primary-footer a {
-  color: #fff;
+  color: #962b4a;
 }
 .primary-header a:hover,
 .primary-footer a:hover {
-  color: #648880;
+  color: #962b4a;
 }
 
 /*
