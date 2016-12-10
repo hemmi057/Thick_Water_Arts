@@ -68,6 +68,7 @@ ul, li {
 
 body {
   background-image: url(images/"slowbear.jpg");
+  background-color: #000;
   background-repeat: no-repeat;
   background-position: center top;
   font: 300 16px/22px "Lato", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
